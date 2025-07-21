@@ -20,5 +20,6 @@ Summarizes long-form content using modern LLMs.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**THIS APPLICATION IS DEPLOYED ON STREAMLIT THE LINK WILL BE PROVIDED HERE BELOw -->**
-**Link**:
+**THIS APPLICATION IS DEPLOYED ON STREAMLIT THE LINK WILL BE PROVIDED HERE BELOW -->**
+
+Link: https://yt-web-summarizer-app-using-genai-djgjdbyhrrukhzphbbmhm2.streamlit.app/
