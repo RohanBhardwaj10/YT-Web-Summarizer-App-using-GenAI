@@ -1,0 +1,13 @@
+streamlit
+validators
+urllib3
+langchain
+langchain-community
+langchain-groq
+youtube-transcript-api
+python-dotenv
+unstructured
+tiktoken
+transformers
+torch
+sentence-transformers
