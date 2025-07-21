@@ -18,5 +18,7 @@ Summarizes long-form content using modern LLMs.
 
 **Language Support:** Supports multiple languages based on availability in YouTube subtitles.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **THIS APPLICATION IS DEPLOYED ON STREAMLIT THE LINK WILL BE PROVIDED HERE BELOw -->**
 **Link**:
