@@ -1,7 +1,7 @@
 # YT-Web-Summarizer-App-using-GenAI
 
 # Overview
-This project is a Python-based tool that fetches transcripts from YouTube videos using the YouTube Transcript API and summarizes the content using a large language model (LLM) such as LLaMA or other supported models.
+This project is a Python-based tool that fetches transcripts from YouTube videos using the YouTube Transcript API or Any Website  and summarizes the content using a large language model (LLM) such as LLaMA or other supported models.
 
 # Features
 Fetches transcripts from publicly available YouTube videos or Websites .
