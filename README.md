@@ -1,3 +1,12 @@
+---
+license: apache-2.0
+title: YT Web Summarizer
+sdk: streamlit
+emoji: 💻
+colorFrom: yellow
+colorTo: blue
+short_description: A streamlit app for summarizing YT and web content using LLM
+---
 # YT-Web-Summarizer-App-using-GenAI
 
 # Overview
